@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xLargeText">72dp</dimen>
+    <dimen name="largeText">48dp</dimen>
+    <dimen name="smallText">32dp</dimen>
+    <dimen name="textMargin">20dp</dimen>
+    <dimen name="sectionMargin">20dp</dimen>
+    <dimen name="weatherIcon">124dp</dimen>
+</resources>

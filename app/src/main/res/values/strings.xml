@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartMirror</string>
+
+    <string name="celsius">\u2103</string>
+    <string name="farenheit">\u2109</string>
+    <string name="curTempTxt">%1$s%2$s</string>
+    <string name="highTempTxt">High: %1$s%2$s</string>
+    <string name="lowTempTxt">Low: %1$s%2$s</string>
+</resources>
